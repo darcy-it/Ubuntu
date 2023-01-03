@@ -1,3 +1,3 @@
 # ubuntu20.04 settings
 - prompt
-- tab beep sound
+- tab beep sound on/off
