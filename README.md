@@ -1,6 +1,7 @@
 # ubuntu20.04 settings
-* env
-  * ubuntu on WSL(win10) 
+## envronment
+* ubuntu on WSL(win10) 
+## function
 * prompt
   * >user@:~$
   * >user@hostname:~$
