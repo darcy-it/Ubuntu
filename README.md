@@ -1,3 +1,3 @@
-# Ubuntu
-WSL on Ubuntu.
-Linux2.
+# ubuntu20.04 settings
+- prompt
+- tab beep sound
