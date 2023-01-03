@@ -1,3 +1,7 @@
 # ubuntu20.04 settings
-- prompt
-- tab beep sound on/off
+* env
+  * ubuntu on WSL(win10) 
+* prompt
+  * >user@:~$
+  * >user@hostname:~$
+* tab beep sound on/off
