@@ -2,7 +2,4 @@
 ## envronment
 * ubuntu on WSL(win10/11) 
 ## function
-* prompt
-  * >user@:~$
-  * >user@hostname:~$
 * tab beep sound on/off
