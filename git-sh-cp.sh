@@ -1,0 +1,2 @@
+
+cp ./git-cmd/git-* .
