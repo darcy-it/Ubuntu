@@ -1,4 +1,4 @@
 git-cmd/
-git-cmd.sh
-git-commit.sh
-git-push.sh
+/git-cmd.sh
+/git-commit.sh
+/git-push.sh
